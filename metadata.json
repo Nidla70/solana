@@ -1,14 +1,14 @@
 {
-  "name": "CuteeCat",
-  "symbol": "CC",
-  "description": "CuteCat is a fun custom Solana token.",
-  "image": "https://postimg.cc/VSPkd0dR",
-  "external_url": "https://yourwebsite.com",
+  "name": "CuteKangaroo",
+  "symbol": "CK",
+  "description": "Cutest Kangaroo out there.",
+  "image": "https://postimg.cc/nMTr01hg",
+
   "seller_fee_basis_points": 0,
   "attributes": [],
   "collection": null,
   "properties": {
-    "files": [{ "uri": "https://postimg.cc/VSPkd0dR", "type": "image/png" }],
+    "files": [{ "uri": "https://postimg.cc/nMTr01hg", "type": "image/png" }],
     "category": "image"
   }
 }
