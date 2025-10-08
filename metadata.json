@@ -2,13 +2,13 @@
   "name": "CuteCat",
   "symbol": "CC",
   "description": "CuteCat is a fun custom Solana token.",
-  "image": "https://i.ibb.co/hvCkF3t",
+  "image": "https://postimg.cc/VSPkd0dR",
   "external_url": "https://yourwebsite.com",
   "seller_fee_basis_points": 0,
   "attributes": [],
   "collection": null,
   "properties": {
-    "files": [{ "uri": "https://i.ibb.co/hvCkF3t", "type": "image/png" }],
+    "files": [{ "uri": "https://postimg.cc/VSPkd0dR", "type": "image/png" }],
     "category": "image"
   }
 }
