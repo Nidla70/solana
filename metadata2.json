@@ -1,0 +1,26 @@
+{
+  "name": "CuteKangaroo",
+  "symbol": "CKANG",
+  "description": "CuteKangaroo is a fun Solana token created for testing and future liquidity on Orca.",
+  "image": "https://8upload.com/image/68e977c6449b8/baby500x500.jpg",
+  "external_url": "https://github.com/Nidla70/solana",
+  "attributes": [
+    { "trait_type": "Project", "value": "Solana Devnet" },
+    { "trait_type": "Type", "value": "Fungible Token" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://8upload.com/image/68e977c6449b8/baby500x500.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "YOUR_WALLET_ADDRESS_HERE",
+        "share": 100
+      }
+    ]
+  }
+}
